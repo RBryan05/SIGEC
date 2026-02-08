@@ -1,9 +1,4 @@
-# Configuración sensible
-config/config.php
-config/database.php
-
 # Logs
-logs/
 *.log
 
 # Archivos temporales
