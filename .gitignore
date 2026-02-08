@@ -1,0 +1,19 @@
+# Configuración sensible
+config/config.php
+config/database.php
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales
+*.tmp
+*.cache
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
